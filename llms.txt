@@ -1,34 +1,22 @@
 # Bhavesh Jain
 
-> Data scientist in Heilbronn, Germany. Machine learning systems for forecasting,
-> LLM evaluation, and strategic foresight — at Fraunhofer ISI and the Joint
-> Innovation Hub, plus independent work on multi-agent foresight tooling.
+> Data scientist and Team Lead Data & Development at the Joint Innovation Hub, working at Fraunhofer ISI in Heilbronn, Germany.
 
-This is a personal portfolio site built with static HTML. Cloudflare may apply
-security checks. Content is free to cite with attribution to Bhavesh Jain
-(https://bhaveshjain.com/).
+## Sites
+- [Portfolio](https://bhaveshjain.com/): current work, ongoing learning, selected experience, publications, and contact
+- [German portfolio](https://bhaveshjain.com/de/)
+- [Writing](https://blog.bhaveshjain.com/): AI/ML, product development, and strategic foresight
+- [RSS](https://blog.bhaveshjain.com/feed.xml)
+- [Atlas](https://travel.bhaveshjain.com/): recorded trips, route notes, observations, and personal travel details
 
-## Site
+## Current work
+- Vorschau: multi-agent foresight platform for small and mid-sized companies; in development
+- JIH Trend Radar: technology scouting, research and patent signals, and LLM-supported analysis
+- Published research on multi-agent RAG and transparent enterprise AI systems
 
-- [Home](https://bhaveshjain.com/): work, publications, writing, about
-- [German version](https://bhaveshjain.com/de/): same content, in German
-- [Résumé (PDF)](https://bhaveshjain.com/assets/resume.pdf)
+Project concepts are explicitly proposed, not completed work. Study areas are ongoing learning, not certificates. The local preview remains noindex pending a separate publication decision.
 
-## Writing
-
-- [Blog](https://blog.bhaveshjain.com/): notes on AI/ML, product development, and strategic foresight
-- [Product development](https://blog.bhaveshjain.com/#product): discovery, MVPs, delivery, metrics, experimentation, prioritization, and build-versus-buy decisions
-- [RSS feed](https://blog.bhaveshjain.com/feed.xml)
-- [How to actually evaluate an LLM application](https://blog.bhaveshjain.com/how-to-evaluate-llm-apps.html): the flagship piece on building evaluation sets that catch regressions
-
-## Work
-
-- Vorschau: multi-agent foresight platform for small and mid-sized companies
-- JIH Trend Radar: bibliometric mining and weak-signal detection for emerging technology
-- Air cargo demand forecasting: M.Sc. thesis, 12% better than the ARIMA baseline
-
-## Elsewhere
-
-- [GitHub](https://github.com/bhav1212)
+## Contact
+- Email: hello@bhaveshjain.com
 - [LinkedIn](https://www.linkedin.com/in/bhav1212/)
-- [Travel notes](https://travel.bhaveshjain.com/)
+- [GitHub](https://github.com/bhav1212)
