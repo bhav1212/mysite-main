@@ -1,0 +1,12 @@
+<svg viewBox="0 0 1200 525" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+      <defs>
+        <linearGradient id="tv2sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#fcb045"/><stop offset="100%" stop-color="#fd1d77"/></linearGradient>
+        <linearGradient id="tv2mt"  x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#6a82fb"/><stop offset="100%" stop-color="#0a0a18"/></linearGradient>
+      </defs>
+      <rect width="1200" height="525" fill="#0a0a18"/>
+      <rect x="0" y="0" width="1200" height="380" fill="url(#tv2sky)" opacity="0.35"/>
+      <circle cx="900" cy="280" r="65" fill="url(#tv2sky)" opacity="0.85"/>
+      <path d="M0 380 L160 240 L260 320 L380 200 L520 290 L660 180 L820 270 L960 200 L1100 280 L1200 230 L1200 525 L0 525 Z" fill="url(#tv2mt)" opacity="0.7"/>
+      <path d="M0 430 L140 340 L300 410 L460 320 L620 400 L780 330 L940 410 L1100 340 L1200 380 L1200 525 L0 525 Z" fill="#0a0a18" opacity="0.9"/>
+      <text x="60" y="510" font-family="JetBrains Mono, monospace" font-size="14" fill="#fff" opacity="0.7">// FKB → Neuschwanstein → Innsbruck → Mayrhofen → Dolomites → Hallstatt → Königssee</text>
+    </svg>

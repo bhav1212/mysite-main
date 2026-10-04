@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1200 525" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+      <defs>
+        <linearGradient id="tv3" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#c471ed"/><stop offset="100%" stop-color="#00d9f5"/></linearGradient>
+      </defs>
+      <rect width="1200" height="525" fill="#0a0a18"/>
+      <rect x="0" y="0" width="1200" height="400" fill="url(#tv3)" opacity="0.25"/>
+      <g fill="#0a0a18">
+        <rect x="80"  y="320" width="80"  height="120"/>
+        <polygon points="80,320 120,260 160,320"/>
+        <rect x="200" y="280" width="60"  height="160"/>
+        <polygon points="200,280 230,220 260,280"/>
+        <rect x="300" y="310" width="100" height="130"/>
+        <rect x="440" y="260" width="70"  height="180"/>
+        <polygon points="440,260 475,200 510,260"/>
+        <rect x="560" y="290" width="80"  height="150"/>
+        <rect x="680" y="270" width="100" height="170"/>
+        <polygon points="680,270 730,200 780,270"/>
+        <rect x="830" y="300" width="60"  height="140"/>
+        <rect x="920" y="280" width="90"  height="160"/>
+        <polygon points="920,280 965,220 1010,280"/>
+        <rect x="1050" y="310" width="80" height="130"/>
+      </g>
+      <g fill="#fff" opacity="0.7">
+        <circle cx="160" cy="80"  r="2"/><circle cx="280" cy="140" r="2"/>
+        <circle cx="420" cy="60"  r="2"/><circle cx="560" cy="110" r="2"/>
+        <circle cx="700" cy="80"  r="2"/><circle cx="860" cy="140" r="2"/>
+        <circle cx="990" cy="60"  r="2"/><circle cx="1100" cy="120" r="2"/>
+        <circle cx="220" cy="200" r="2"/><circle cx="640" cy="180" r="2"/>
+        <circle cx="950" cy="200" r="2"/>
+      </g>
+      <text x="60" y="510" font-family="JetBrains Mono, monospace" font-size="14" fill="#fff" opacity="0.7">// vinohrady · old town · winter</text>
+    </svg>

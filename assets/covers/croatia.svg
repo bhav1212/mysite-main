@@ -1,0 +1,13 @@
+<svg viewBox="0 0 1200 525" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+      <defs>
+        <linearGradient id="tv1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#00d9f5"/><stop offset="100%" stop-color="#6a82fb"/></linearGradient>
+        <linearGradient id="tv1b" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#ff6b9d"/><stop offset="100%" stop-color="#fcb045"/></linearGradient>
+      </defs>
+      <rect width="1200" height="525" fill="#0a0a18"/>
+      <rect x="0" y="0" width="1200" height="320" fill="url(#tv1b)" opacity="0.18"/>
+      <rect x="0" y="320" width="1200" height="205" fill="url(#tv1)" opacity="0.3"/>
+      <path d="M0 320 L120 250 L240 290 L360 240 L500 280 L640 230 L780 270 L920 220 L1060 260 L1200 230 L1200 320 Z" fill="url(#tv1)" opacity="0.6"/>
+      <circle cx="800" cy="200" r="50" fill="url(#tv1b)" opacity="0.8"/>
+      <path d="M80 480 Q300 440 500 460 T900 430 T1140 440" fill="none" stroke="#fff" stroke-opacity="0.4" stroke-dasharray="6 6" stroke-width="2"/>
+      <text x="60" y="510" font-family="JetBrains Mono, monospace" font-size="14" fill="#fff" opacity="0.7">// zagreb → plitvice → dubrovnik → split → krka</text>
+    </svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Marina Bay Sands, Singapore" class="country-cover-svg">
+<defs>
+  <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="6" stroke="#1f1812" stroke-width="0.6" opacity="0.18"/>
+  </pattern>
+</defs>
+<g fill="none" stroke="#b4513a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+
+  <line x1="0" y1="285" x2="800" y2="285" opacity="0.4"/>
+  <!-- City skyline behind -->
+  <rect x="60" y="200" width="36" height="85" opacity="0.5"/>
+  <rect x="105" y="220" width="30" height="65" opacity="0.5"/>
+  <rect x="640" y="215" width="34" height="70" opacity="0.5"/>
+  <rect x="685" y="195" width="28" height="90" opacity="0.5"/>
+  <rect x="720" y="225" width="40" height="60" opacity="0.5"/>
+  <!-- Marina Bay Sands — 3 connected towers + boat-shaped top -->
+  <!-- Tower 1 -->
+  <path d="M 270 285 L 290 130 L 315 130 L 330 285"/>
+  <!-- Tower 2 -->
+  <path d="M 385 285 L 395 120 L 425 120 L 435 285"/>
+  <!-- Tower 3 -->
+  <path d="M 495 285 L 505 130 L 530 130 L 550 285"/>
+  <!-- Boat / SkyPark connecting the tops -->
+  <path d="M 270 130 Q 290 115 315 115 L 505 115 Q 530 115 550 130 L 530 130 L 505 130 L 425 120 L 395 120 L 315 130 Z" fill="#b4513a" opacity="0.15" stroke="#b4513a" stroke-width="2.2"/>
+  <line x1="260" y1="118" x2="560" y2="118" stroke-width="2.4"/>
+  <!-- Boat tip (extending past right tower) -->
+  <path d="M 550 130 Q 580 130 595 115 L 560 118" stroke-width="2.2"/>
+  <!-- Palm tree (right of skyline) on a Supertree-style trunk -->
+  <line x1="600" y1="285" x2="600" y2="200" stroke-width="3.5"/>
+  <!-- Supertree branches -->
+  <path d="M 600 200 Q 580 190 565 200"/>
+  <path d="M 600 200 Q 620 190 635 200"/>
+  <path d="M 600 200 Q 595 180 580 175"/>
+  <path d="M 600 200 Q 605 180 620 175"/>
+  <path d="M 600 200 Q 600 175 600 165"/>
+  <!-- Water — wavy ground line -->
+  <path d="M 0 310 Q 80 305 160 310 T 320 310 T 480 310 T 640 310 T 800 310" stroke-width="1.4" opacity="0.55"/>
+  <path d="M 0 325 Q 100 320 200 325 T 400 325 T 600 325 T 800 325" stroke-width="1.3" opacity="0.4"/>
+  <!-- Merlion small (left) -->
+  <path d="M 140 250 Q 145 240 155 240 L 158 235 L 162 250 L 170 252 L 175 260 L 168 268 L 160 270 L 150 268 Z" stroke-width="1.5" opacity="0.85"/>
+  <!-- Sun -->
+  <circle cx="700" cy="90" r="22" stroke="#b4513a" stroke-width="1.6" opacity="0.7"/>
+
+</g>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Wat Arun, Thailand" class="country-cover-svg">
+<defs>
+  <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="6" stroke="#1f1812" stroke-width="0.6" opacity="0.18"/>
+  </pattern>
+</defs>
+<g fill="none" stroke="#b4513a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+
+  <line x1="0" y1="280" x2="800" y2="280" opacity="0.4"/>
+  <!-- Sun -->
+  <circle cx="640" cy="120" r="36" stroke="#b4513a" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="640" cy="120" r="36" fill="#b4513a" stroke="none" opacity="0.12"/>
+  <!-- Wat Arun central prang (tall ornate temple spire) -->
+  <!-- Base -->
+  <rect x="330" y="240" width="140" height="40"/>
+  <!-- Middle tier -->
+  <path d="M 350 240 L 360 200 L 440 200 L 450 240 Z"/>
+  <path d="M 365 200 L 375 165 L 425 165 L 435 200 Z"/>
+  <!-- Spire (the prang) -->
+  <path d="M 380 165 L 392 100 L 408 100 L 420 165 Z"/>
+  <!-- Top finial -->
+  <line x1="400" y1="100" x2="400" y2="70" stroke-width="2.4"/>
+  <line x1="395" y1="80" x2="405" y2="80"/>
+  <line x1="393" y1="73" x2="407" y2="73"/>
+  <circle cx="400" cy="65" r="3" fill="#b4513a"/>
+  <!-- Decorative hatching on the spire -->
+  <path d="M 385 150 L 415 150 M 387 135 L 413 135 M 389 120 L 411 120" stroke-width="1.2" opacity="0.7"/>
+  <!-- Smaller satellite spires -->
+  <path d="M 280 280 L 290 220 L 310 220 L 320 280 Z"/>
+  <line x1="300" y1="220" x2="300" y2="200" stroke-width="1.8"/>
+  <circle cx="300" cy="198" r="2.5" fill="#b4513a"/>
+  <path d="M 480 280 L 490 220 L 510 220 L 520 280 Z"/>
+  <line x1="500" y1="220" x2="500" y2="200" stroke-width="1.8"/>
+  <circle cx="500" cy="198" r="2.5" fill="#b4513a"/>
+  <!-- Chao Phraya river -->
+  <path d="M 0 300 Q 80 295 160 300 T 320 300 T 480 300 T 640 300 T 800 300" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 0 315 Q 100 312 200 315 T 400 315 T 600 315 T 800 315" stroke-width="1.4" opacity="0.45"/>
+  <!-- Longtail boat -->
+  <path d="M 110 295 L 130 290 L 195 290 L 205 300 L 130 305 Z" fill="#b4513a" opacity="0.12" stroke="#b4513a" stroke-width="1.8"/>
+  <!-- Long propeller pole -->
+  <line x1="195" y1="290" x2="235" y2="278" stroke-width="2"/>
+  <!-- Lotus silhouette -->
+  <path d="M 600 285 Q 600 275 608 273 Q 615 268 620 273 Q 628 275 628 285" stroke-width="1.5" opacity="0.7"/>
+
+</g>
+</svg>

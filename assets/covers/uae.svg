@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Burj Khalifa, UAE" class="country-cover-svg">
+<defs>
+  <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+    <line x1="0" y1="0" x2="0" y2="6" stroke="#1f1812" stroke-width="0.6" opacity="0.18"/>
+  </pattern>
+</defs>
+<g fill="none" stroke="#b4513a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+
+  <line x1="0" y1="280" x2="800" y2="280" opacity="0.4"/>
+  <!-- Sun -->
+  <circle cx="640" cy="130" r="38" stroke="#b4513a" stroke-width="1.6" opacity="0.75"/>
+  <circle cx="640" cy="130" r="38" fill="#b4513a" stroke="none" opacity="0.12"/>
+  <!-- Distant desert dune line -->
+  <path d="M 0 250 Q 200 230 400 240 Q 600 250 800 235" stroke-width="1.5" opacity="0.55"/>
+  <!-- Burj Khalifa — slender tapered tower -->
+  <path d="M 360 280 L 365 250 L 360 230 L 365 200 L 360 170 L 365 140 L 360 105 L 370 70 L 380 50 L 390 70 L 400 105 L 395 140 L 400 170 L 395 200 L 400 230 L 395 250 L 400 280 Z" fill="#b4513a" opacity="0.18" stroke="#b4513a" stroke-width="2.2"/>
+  <!-- Antenna -->
+  <line x1="385" y1="50" x2="385" y2="20" stroke-width="2.2"/>
+  <line x1="382" y1="35" x2="388" y2="35"/>
+  <line x1="380" y1="25" x2="390" y2="25"/>
+  <!-- Adjacent shorter towers -->
+  <rect x="280" y="200" width="40" height="80" opacity="0.7"/>
+  <rect x="450" y="180" width="35" height="100" opacity="0.7"/>
+  <rect x="500" y="220" width="28" height="60" opacity="0.5"/>
+  <rect x="230" y="230" width="32" height="50" opacity="0.5"/>
+  <!-- Dune in foreground -->
+  <path d="M 0 320 Q 150 295 320 315 Q 480 330 640 305 Q 720 295 800 310 L 800 350 L 0 350 Z" fill="url(#hatch)" stroke="#1f1812" stroke-width="1" opacity="0.7"/>
+  <!-- Camel silhouette -->
+  <g transform="translate(120 305)">
+    <path d="M 0 0 L 6 -12 L 14 -8 L 22 -22 L 30 -10 L 42 -22 L 50 -10 L 56 0 L 56 18 L 52 22 L 48 18 L 48 8 L 22 8 L 22 22 L 18 26 L 14 22 L 14 8 L 8 0 Z" fill="#1f1812" stroke="#1f1812" stroke-width="1.4"/>
+    <line x1="50" y1="-10" x2="56" y2="-18" stroke="#1f1812" stroke-width="1.4"/>
+    <circle cx="55" cy="-22" r="2.5" fill="#1f1812"/>
+  </g>
+
+</g>
+</svg>

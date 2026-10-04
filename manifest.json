@@ -1,0 +1,15 @@
+{
+  "name": "Bhavesh Jain — Data Scientist",
+  "short_name": "Bhavesh Jain",
+  "description": "Machine learning systems for forecasting, LLM evaluation, and strategic foresight.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a10",
+  "theme_color": "#0a0a10",
+  "lang": "en",
+  "icons": [
+    { "src": "/assets/favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" },
+    { "src": "/assets/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ]
+}
