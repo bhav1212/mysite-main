@@ -14,7 +14,7 @@
 - JIH Trend Radar: technology scouting, research and patent signals, and LLM-supported analysis
 - Published research on multi-agent RAG and transparent enterprise AI systems
 
-Project concepts are explicitly proposed, not completed work. Study areas are ongoing learning, not certificates. The local preview remains noindex pending a separate publication decision.
+Project concepts are explicitly proposed, not completed work. Study areas are ongoing learning, not certificates. The writing index contains 48 articles. Public builds are published through GitHub Pages; local preview builds remain noindex.
 
 ## Contact
 - Email: hello@bhaveshjain.com
