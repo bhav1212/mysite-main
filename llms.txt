@@ -4,7 +4,6 @@
 
 ## Sites
 - [Portfolio](https://bhaveshjain.com/): current work, ongoing learning, selected experience, publications, and contact
-- [German portfolio](https://bhaveshjain.com/de/)
 - [Writing](https://blog.bhaveshjain.com/): AI/ML, product development, and strategic foresight
 - [RSS](https://blog.bhaveshjain.com/feed.xml)
 - [Atlas](https://travel.bhaveshjain.com/): recorded trips, route notes, observations, and personal travel details
